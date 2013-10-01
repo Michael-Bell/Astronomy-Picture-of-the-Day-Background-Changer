@@ -1,0 +1,7 @@
+Settings are one per line in the following order: Bmp=0,jpg=1; Storage location; (r)andom or (t)odays image; minimum image size in mb, then bytes
+1
+C:\apod
+t
+0
+0
+n

@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "apod.py", line 130, in <module>
+IOError: [Errno 2] No such file or directory: 'settings.txt'
+Traceback (most recent call last):
+  File "apod.py", line 130, in <module>
+IOError: [Errno 2] No such file or directory: 'settings.txt'
